@@ -6,4 +6,4 @@ I am currently looking for internships and opportunities to gain practical exper
 
 - Always exploring new ideas and technologies.  
 - Open to collaboration and learning from others.  
-- Contact me: nikolailiev074@gmail.com
+- Contact me on gmail/linkedin: nikolailiev074@gmail.com / https://www.linkedin.com/in/nikola-iliev-b59a00242/
