@@ -18,8 +18,8 @@ LinkedIn: [https://www.linkedin.com/in/nikola-iliev-b59a00242/](https://www.link
 - CI/CD, AI Integration  
 
 ### Web and Frontend Development
-- React.js Developer: React, React Router, State and Props, UI/UX Design Patterns  
-- Component-based architecture, reusable components  
+- React.js Developer: React (Redux, Router and other libraries), UI/UX Design Patterns  
+- Component-based architecture, reusable components, state, props
 - Fetch API, dynamic data handling  
 - Responsive and mobile-first design, animations  
 
